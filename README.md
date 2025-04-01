@@ -4,8 +4,8 @@
 
 # open --background -a docker 
 
-# Check the requirement.txt file to see the required packages, if you don’t already have them you will need to install them.
-# Run the following command to install the requrirements
+## Check the requirement.txt file to see the required packages, if you don’t already have them you will need to install them.
+## Run the following command to install the requrirements
 
 # pip3 install -r requirements.txt
 
