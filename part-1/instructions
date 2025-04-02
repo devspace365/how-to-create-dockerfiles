@@ -17,3 +17,7 @@ pip3 install -r requirements.txt
 Run the following command to run the python application:
 
 python3 app.py
+
+Now we know for sure that app runs, we can build the container
+
+docker init
