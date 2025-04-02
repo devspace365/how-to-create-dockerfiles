@@ -1,15 +1,19 @@
 Clone the python-app directory to follow along with this tutorial
 
-Click on Docker Desktop to launch it or use the following shell command:
+Click the Docker Desktop icon to launch it, or use the following shell command:
+
 open --background -a docker 
 
-To create a virtual environment, you will need to run the following commands:
+You will need to run the following commands to create a virtual environment to test the app:
+
 python3 -m venv env
 source env/bin/activate
 
 Check the requirement.txt file to see the required packages
 Run the following command to install the requrirements:
+
 pip3 install -r requirements.txt
 
 Run the following command to run the python application:
+
 python3 app.py
